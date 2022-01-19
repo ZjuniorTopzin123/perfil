@@ -14,7 +14,7 @@
   <a>
     <div>
       <a href="https://discord.com/users/851234256386654250">
-    <img src="./logo"> 
+    <img src="./logo_transparent.png" alt="logo dc"> 
       </a>
     </div>
   
