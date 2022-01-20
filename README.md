@@ -3,7 +3,7 @@
 <div>
 <img src="https://media.discordapp.net/attachments/930245212402499646/933492797892362270/quem_baixar_e_gay.png">
 <h1>Junior </h1>
-<h2>Apenas um programador mirim</h2>
+<h2>Apenas um estudante de programação</h2>
   <h1>Linguagens:</h1>
   <div>
   <img align="center" alt="junior" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
